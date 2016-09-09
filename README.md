@@ -1,2 +1,2 @@
 # hello-world-of-kitties
-repository of kitties
+repository, some that of kitties.
