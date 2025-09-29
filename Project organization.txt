@@ -1,0 +1,4 @@
+/map-app/
+├── index.html         ← Branch 1: HTML + JS
+├── style.css          ← Branch 2: CSS
+└── assets/            ← (Optional) for icons, fonts, images
